@@ -1,0 +1,87 @@
+LISTADO DE FACTURAS
+********************
+Fecha: 16/05/2022
+Hora: 12:50:42
+Número de facturas: 10
+Importe total: 4231,22€
+********************
+********************
+FACTURA 1
+********************
+Número de factura: 1234
+Fecha: 09/01/2022
+Número de cliente: 3
+Importe: 1350,46€
+Forma de pago: Cheque
+********************
+FACTURA 2
+********************
+Número de factura: 1235
+Fecha: 09/01/2022
+Número de cliente: 5
+Importe: 235,60€
+Forma de pago: Tarjeta
+********************
+FACTURA 3
+********************
+Número de factura: 1236
+Fecha: 09/01/2022
+Número de cliente: 20
+Importe: 132,00€
+Forma de pago: Tarjeta
+********************
+FACTURA 4
+********************
+Número de factura: 1237
+Fecha: 09/01/2022
+Número de cliente: 18
+Importe: 436,21€
+Forma de pago: Tarjeta
+********************
+FACTURA 5
+********************
+Número de factura: 1238
+Fecha: 15/02/2022
+Número de cliente: 18
+Importe: 1100,32€
+Forma de pago: Cheque
+********************
+FACTURA 6
+********************
+Número de factura: 1239
+Fecha: 20/03/2022
+Número de cliente: 14
+Importe: 80,75€
+Forma de pago: Contado
+********************
+FACTURA 7
+********************
+Número de factura: 1240
+Fecha: 03/05/2022
+Número de cliente: 12
+Importe: 47,25€
+Forma de pago: Contado
+********************
+FACTURA 8
+********************
+Número de factura: 1241
+Fecha: 03/05/2022
+Número de cliente: 5
+Importe: 122,20€
+Forma de pago: Tarjeta
+********************
+FACTURA 9
+********************
+Número de factura: 1242
+Fecha: 03/05/2022
+Número de cliente: 13
+Importe: 36,70€
+Forma de pago: Contado
+********************
+FACTURA 10
+********************
+Número de factura: 1243
+Fecha: 03/05/2022
+Número de cliente: 17
+Importe: 689,73€
+Forma de pago: Transferencia
